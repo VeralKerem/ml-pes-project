@@ -2,4 +2,4 @@
 Simple ML-based Potential Energy Surface estimation project
 ## PES Graph
 
-![PES Graph](pes_plot.png)
+![PES Graph](output.png)
